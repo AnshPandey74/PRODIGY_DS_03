@@ -116,7 +116,7 @@ The Decision Tree Classifier provides a way to predict customer purchases based 
 - Scikit-learn Documentation: [Decision Tree Classifier](https://scikit-learn.org/stable/modules/tree.html#classification)
 
 ### Screenshots
-![Screenshot 1](https://github.com/AnshPandey74/Prodigy_DS_03/raw/3e7817d82e8c93d037f248586583b86d0faafe79/screenshots/1.png)/n
+![Screenshot 1](https://github.com/AnshPandey74/Prodigy_DS_03/raw/3e7817d82e8c93d037f248586583b86d0faafe79/screenshots/1.png)
 ![Screenshot 2](https://github.com/AnshPandey74/Prodigy_DS_03/raw/3e7817d82e8c93d037f248586583b86d0faafe79/screenshots/2.png)
 ![Screenshot 3](https://github.com/AnshPandey74/Prodigy_DS_03/raw/3e7817d82e8c93d037f248586583b86d0faafe79/screenshots/3.png)
 ![Screenshot 4](https://github.com/AnshPandey74/Prodigy_DS_03/raw/3e7817d82e8c93d037f248586583b86d0faafe79/screenshots/4.png)
