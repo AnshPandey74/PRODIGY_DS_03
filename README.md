@@ -116,14 +116,29 @@ The Decision Tree Classifier provides a way to predict customer purchases based 
 - Scikit-learn Documentation: [Decision Tree Classifier](https://scikit-learn.org/stable/modules/tree.html#classification)
 
 ### Screenshots
-![Correlation matrix heatmap](https://github.com/AnshPandey74/Prodigy_DS_03/raw/3e7817d82e8c93d037f248586583b86d0faafe79/screenshots/1.png)
-![Survival count](https://github.com/AnshPandey74/Prodigy_DS_03/raw/3e7817d82e8c93d037f248586583b86d0faafe79/screenshots/2.png)
-![Passenger class distribution](https://github.com/AnshPandey74/Prodigy_DS_03/raw/3e7817d82e8c93d037f248586583b86d0faafe79/screenshots/3.png)
-![Gender distribution](https://github.com/AnshPandey74/Prodigy_DS_03/raw/3e7817d82e8c93d037f248586583b86d0faafe79/screenshots/4.png)
-![Embarkation point distribution](https://github.com/AnshPandey74/Prodigy_DS_03/raw/3e7817d82e8c93d037f248586583b86d0faafe79/screenshots/5.png)
-![Another visualization](https://github.com/AnshPandey74/Prodigy_DS_03/raw/3e7817d82e8c93d037f248586583b86d0faafe79/screenshots/6.png)
-![Additional visualization](https://github.com/AnshPandey74/Prodigy_DS_03/raw/3e7817d82e8c93d037f248586583b86d0faafe79/screenshots/7.png)
-![Further visualization](https://github.com/AnshPandey74/Prodigy_DS_03/raw/3e7817d82e8c93d037f248586583b86d0faafe79/screenshots/8.png)
-![Final visualization](https://github.com/AnshPandey74/Prodigy_DS_03/raw/3e7817d82e8c93d037f248586583b86d0faafe79/screenshots/9.png)
+![Screenshot 1](https://github.com/AnshPandey74/Prodigy_DS_03/raw/3e7817d82e8c93d037f248586583b86d0faafe79/screenshots/1.png)/n
+![Screenshot 2](https://github.com/AnshPandey74/Prodigy_DS_03/raw/3e7817d82e8c93d037f248586583b86d0faafe79/screenshots/2.png)
+![Screenshot 3](https://github.com/AnshPandey74/Prodigy_DS_03/raw/3e7817d82e8c93d037f248586583b86d0faafe79/screenshots/3.png)
+![Screenshot 4](https://github.com/AnshPandey74/Prodigy_DS_03/raw/3e7817d82e8c93d037f248586583b86d0faafe79/screenshots/4.png)
+![Screenshot 5](https://github.com/AnshPandey74/Prodigy_DS_03/raw/3e7817d82e8c93d037f248586583b86d0faafe79/screenshots/5.png)
+![Screenshot 6](https://github.com/AnshPandey74/Prodigy_DS_03/raw/3e7817d82e8c93d037f248586583b86d0faafe79/screenshots/6.png)
+![Screenshot 7](https://github.com/AnshPandey74/Prodigy_DS_03/raw/3e7817d82e8c93d037f248586583b86d0faafe79/screenshots/7.png)
+![Screenshot 8](https://github.com/AnshPandey74/Prodigy_DS_03/raw/3e7817d82e8c93d037f248586583b86d0faafe79/screenshots/8.png)
+![Screenshot 9](https://github.com/AnshPandey74/Prodigy_DS_03/raw/3e7817d82e8c93d037f248586583b86d0faafe79/screenshots/9.png)
+![Screenshot 10](https://github.com/AnshPandey74/Prodigy_DS_03/raw/3e7817d82e8c93d037f248586583b86d0faafe79/screenshots/10.png)
+![Screenshot 11](https://github.com/AnshPandey74/Prodigy_DS_03/raw/3e7817d82e8c93d037f248586583b86d0faafe79/screenshots/11.png)
+![Screenshot 12](https://github.com/AnshPandey74/Prodigy_DS_03/raw/3e7817d82e8c93d037f248586583b86d0faafe79/screenshots/12.png)
+![Screenshot 13](https://github.com/AnshPandey74/Prodigy_DS_03/raw/3e7817d82e8c93d037f248586583b86d0faafe79/screenshots/13.png)
+![Screenshot 14](https://github.com/AnshPandey74/Prodigy_DS_03/raw/3e7817d82e8c93d037f248586583b86d0faafe79/screenshots/14.png)
+![Screenshot 15](https://github.com/AnshPandey74/Prodigy_DS_03/raw/3e7817d82e8c93d037f248586583b86d0faafe79/screenshots/15.png)
+![Screenshot 16](https://github.com/AnshPandey74/Prodigy_DS_03/raw/3e7817d82e8c93d037f248586583b86d0faafe79/screenshots/16.png)
+![Screenshot 17](https://github.com/AnshPandey74/Prodigy_DS_03/raw/3e7817d82e8c93d037f248586583b86d0faafe79/screenshots/17.png)
+![Screenshot 18](https://github.com/AnshPandey74/Prodigy_DS_03/raw/3e7817d82e8c93d037f248586583b86d0faafe79/screenshots/18.png)
+![Screenshot 19](https://github.com/AnshPandey74/Prodigy_DS_03/raw/3e7817d82e8c93d037f248586583b86d0faafe79/screenshots/19.png)
+![Screenshot 20](https://github.com/AnshPandey74/Prodigy_DS_03/raw/3e7817d82e8c93d037f248586583b86d0faafe79/screenshots/20.png)
+![Screenshot 21](https://github.com/AnshPandey74/Prodigy_DS_03/raw/3e7817d82e8c93d037f248586583b86d0faafe79/screenshots/21.png)
+![Screenshot 22](https://github.com/AnshPandey74/Prodigy_DS_03/raw/3e7817d82e8c93d037f248586583b86d0faafe79/screenshots/22.png)
+![Screenshot 23](https://github.com/AnshPandey74/Prodigy_DS_03/raw/3e7817d82e8c93d037f248586583b86d0faafe79/screenshots/23.png)
+
 
 Feel free to contribute to the project or provide feedback. For any issues or suggestions, please open an issue or submit a pull request.
