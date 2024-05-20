@@ -39,7 +39,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 ## Usage
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/customer-purchase-prediction.git
+    git clone https://github.com/AnshPandey74/Prodigy_DS_03.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -49,7 +49,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn jupyter
     ```bash
     jupyter notebook
     ```
-4. Run the `Customer_Purchase_Prediction.ipynb` notebook.
+4. Run the `Prodigy_DS_03.ipynb` notebook.
 
 ## Libraries Used
 - **Pandas**: Data manipulation and analysis.
