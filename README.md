@@ -115,4 +115,15 @@ The Decision Tree Classifier provides a way to predict customer purchases based 
 - UCI Machine Learning Repository: [Bank Marketing Dataset](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing)
 - Scikit-learn Documentation: [Decision Tree Classifier](https://scikit-learn.org/stable/modules/tree.html#classification)
 
+### Screenshots
+![Correlation matrix heatmap](https://github.com/AnshPandey74/Prodigy_DS_03/raw/3e7817d82e8c93d037f248586583b86d0faafe79/screenshots/1.png)
+![Survival count](https://github.com/AnshPandey74/Prodigy_DS_03/raw/3e7817d82e8c93d037f248586583b86d0faafe79/screenshots/2.png)
+![Passenger class distribution](https://github.com/AnshPandey74/Prodigy_DS_03/raw/3e7817d82e8c93d037f248586583b86d0faafe79/screenshots/3.png)
+![Gender distribution](https://github.com/AnshPandey74/Prodigy_DS_03/raw/3e7817d82e8c93d037f248586583b86d0faafe79/screenshots/4.png)
+![Embarkation point distribution](https://github.com/AnshPandey74/Prodigy_DS_03/raw/3e7817d82e8c93d037f248586583b86d0faafe79/screenshots/5.png)
+![Another visualization](https://github.com/AnshPandey74/Prodigy_DS_03/raw/3e7817d82e8c93d037f248586583b86d0faafe79/screenshots/6.png)
+![Additional visualization](https://github.com/AnshPandey74/Prodigy_DS_03/raw/3e7817d82e8c93d037f248586583b86d0faafe79/screenshots/7.png)
+![Further visualization](https://github.com/AnshPandey74/Prodigy_DS_03/raw/3e7817d82e8c93d037f248586583b86d0faafe79/screenshots/8.png)
+![Final visualization](https://github.com/AnshPandey74/Prodigy_DS_03/raw/3e7817d82e8c93d037f248586583b86d0faafe79/screenshots/9.png)
+
 Feel free to contribute to the project or provide feedback. For any issues or suggestions, please open an issue or submit a pull request.
